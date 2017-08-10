@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="knoxdata-logo.svg"
@@ -14,25 +15,25 @@
    height="227.57654"
    width="299.99994"
    version="1.1"
-   inkscape:export-filename="C:\Users\hqp\Documents\Github\knoxdata\press-kit\logo.png"
+   inkscape:export-filename="C:\Users\email\Documents\GitHub\knoxdata\press-kit\logo.png"
    inkscape:export-xdpi="600"
    inkscape:export-ydpi="600">
   <sodipodi:namedview
      inkscape:current-layer="layer1"
      inkscape:window-maximized="1"
      inkscape:window-y="-8"
-     inkscape:window-x="1912"
-     inkscape:cy="173.41674"
-     inkscape:cx="164.31641"
-     inkscape:zoom="2.0110236"
+     inkscape:window-x="-8"
+     inkscape:cy="108.20158"
+     inkscape:cx="124.60747"
+     inkscape:zoom="1.4220084"
      fit-margin-bottom="0"
      fit-margin-right="0"
      fit-margin-left="0"
      fit-margin-top="0"
      showgrid="false"
      id="namedview4244"
-     inkscape:window-height="1017"
-     inkscape:window-width="1920"
+     inkscape:window-height="745"
+     inkscape:window-width="1366"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -49,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -68,6 +69,115 @@
          height="31.645338"
          x="2.7999997"
          y="2.8" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="4.5711644"
+       height="4.571164"
+       patternTransform="matrix(10.000001,0,0,9.9999999,-31488.325,-7926.597)"
+       id="pattern5034">
+      <ellipse
+         ry="2.135582"
+         rx="2.1355822"
+         cy="2.2855821"
+         cx="2.2855823"
+         id="path4311"
+         style="opacity:1;fill:#f7f7f7;fill-opacity:1;fill-rule:evenodd;stroke:#ae017e;stroke-width:0.29999998;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="4.5711644"
+       height="4.571164"
+       patternTransform="matrix(10.000001,0,0,9.9999999,-31488.325,-7926.597)"
+       id="pattern5034-2">
+      <ellipse
+         ry="2.135582"
+         rx="2.1355822"
+         cy="2.2855821"
+         cx="2.2855823"
+         id="path4311-4"
+         style="opacity:1;fill:#f7f7f7;fill-opacity:1;fill-rule:evenodd;stroke:#ae017e;stroke-width:0.29999998;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="8.3804629"
+       height="8.3804628"
+       patternTransform="matrix(10.000001,0,0,9.9999999,-31496.473,-7935.4311)"
+       id="pattern5086">
+      <circle
+         cy="4.1902313"
+         cx="4.1902313"
+         id="path5064"
+         style="opacity:1;fill:#f7f7f7;fill-opacity:1;fill-rule:evenodd;stroke:#ae017e;stroke-width:0.29999998;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         r="4.0402312" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="6.9999699"
+       height="6.999785"
+       patternTransform="matrix(10.000001,0,0,9.9999999,-31491.876,-7811.6098)"
+       id="pattern5817">
+      <rect
+         y="0.037395168"
+         x="0.037585828"
+         height="6.9249887"
+         width="6.9249887"
+         id="rect5813"
+         style="opacity:1;fill:#ae017e;fill-opacity:1;fill-rule:evenodd;stroke:#ae017e;stroke-width:0.07479034;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="3.4998899"
+         rx="3.4998903"
+         cy="3.4998953"
+         cx="3.4998903"
+         id="path5815"
+         style="opacity:1;fill:#f7f7f7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.00000024;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3.0000624"
+       height="2.9999214"
+       patternTransform="matrix(10.000001,0,0,9.9999999,-30781.175,-7322.8619)"
+       id="pattern5829">
+      <rect
+         y="0.016026571"
+         x="0.016170597"
+         height="2.967865"
+         width="2.9678652"
+         id="rect5825"
+         style="opacity:1;fill:#ae017e;fill-opacity:1;fill-rule:evenodd;stroke:#ae017e;stroke-width:0.03205314;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="1.4999593"
+         rx="1.4999596"
+         cy="1.4999621"
+         cx="1.4999596"
+         id="ellipse5827"
+         style="opacity:1;fill:#f7f7f7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.00000024;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(10.000001,0,0,9.9999999,-30549.019,-7446.6988)"
+       id="pattern5847"
+       xlink:href="#pattern5829-0"
+       inkscape:collect="always" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3.0000624"
+       height="2.9999214"
+       patternTransform="matrix(10.000001,0,0,9.9999999,-30781.175,-7322.8619)"
+       id="pattern5829-0">
+      <rect
+         y="0.016026571"
+         x="0.016170597"
+         height="2.967865"
+         width="2.9678652"
+         id="rect5825-0"
+         style="opacity:1;fill:#ae017e;fill-opacity:1;fill-rule:evenodd;stroke:#ae017e;stroke-width:0.03205314;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="1.4999593"
+         rx="1.4999596"
+         cy="1.4999621"
+         cx="1.4999596"
+         id="ellipse5827-4"
+         style="opacity:1;fill:#f7f7f7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.00000024;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </pattern>
   </defs>
   <clipPath
@@ -1086,16 +1196,45 @@
          d="m -32882.773,-7008.2363 218.003,186.3564 119.549,-140.6465 z"
          inkscape:connector-curvature="0" />
     </g>
+    <rect
+       style="opacity:1;fill:#ae017e;fill-opacity:1;fill-rule:evenodd;stroke:#ae017e;stroke-width:32.23852158;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4310-2"
+       width="2189.8076"
+       height="374.20428"
+       x="-32663.088"
+       y="-7959.2563" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:500px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f7f7f7;fill-opacity:1;stroke:#ae017e;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
-       x="-32689.807"
-       y="-7610.4575"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:500.00001118px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:url(#pattern5829);fill-opacity:1.0;stroke:#f7f7f7;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="-32671.822"
+       y="-7612.1079"
        id="text4374"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4619"
-         x="-32689.807"
-         y="-7610.4575">KnoxData</tspan></text>
+         x="-32671.822"
+         y="-7612.1079"
+         style="stroke:#f7f7f7;stroke-opacity:1;fill:url(#pattern5829);fill-opacity:1.0">KnoxData</tspan></text>
+    <rect
+       style="fill:none;stroke:none"
+       width="30.000002"
+       height="29.999207"
+       x="-30781.176"
+       y="-7322.8618"
+       id="rect5821" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="pattern"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:url(#pattern5847);stroke:none"
+       width="30.000624"
+       height="29.999212"
+       x="-30549.02"
+       y="-7446.6987"
+       id="rect5833" />
   </g>
 </svg>
